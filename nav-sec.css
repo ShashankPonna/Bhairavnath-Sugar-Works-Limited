@@ -1,0 +1,28 @@
+nav {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  color: #1b4332;
+  padding: 15px 0;
+  text-align: center;
+  z-index: 999;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-around;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+
+nav a {
+    display: inline-block;
+  margin: 0 15px;
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
