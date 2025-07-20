@@ -7,16 +7,6 @@ A fully responsive and modern recreation of the Bhairavnath Sugar Works Limited 
 
 ---
 
-## 📌 Table of Contents
-
-- [About the Project](#about-the-project)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Before & After](#before--after)
-- [Learning Outcomes](#learning-outcomes)
-
----
-
 ## 📖 About the Project
 
 The original BSWL website lacked responsiveness and modern design principles. This project aims to give it a fresh look while maintaining the original content and identity. It is designed to work seamlessly across all devices and screen sizes.
