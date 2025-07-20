@@ -64,3 +64,4 @@ While building this project, I learned:
 
 -Developed by Shashank Ponna
 
+⚠️ **Disclaimer:** This project is a non-commercial educational remake of the official Bhairavnath Sugar Works Limited website (bswl.in). All content including text, images, and contact information is sourced from their public site. This is NOT an official site and is NOT affiliated with or endorsed by BSWL.
